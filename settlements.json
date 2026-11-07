@@ -133,6 +133,13 @@
   "source": "SettleSignal"
  },
  {
+  "name": "Teleflora Text Message (TCPA) Settlement",
+  "deadline": "2026-11-17",
+  "official_url": "https://www.tfsettlement.com/",
+  "details_url": "https://claimfinder.greyridgesignals.ai/s/teleflora-tcpa",
+  "source": "Official settlement site"
+ },
+ {
   "name": "Mental Health Association Data Breach Settlement",
   "deadline": "2026-11-19",
   "official_url": "https://mhadatasettlement.com/form/claim",
