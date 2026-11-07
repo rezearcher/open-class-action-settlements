@@ -226,9 +226,9 @@
  {
   "name": "Equifax Inquiry Dispute Class Action Settlement (Hines v. Equifax)",
   "deadline": "2026-11-29",
-  "official_url": "https://www.equifaxdisputeclassaction.com/claimform.aspx",
-  "details_url": "https://claimfinder.greyridgesignals.ai/s/ss-equifax-inquiry-dispute-class-action-settlement-hines-v-equifax",
-  "source": "SettleSignal"
+  "official_url": "https://www.equifaxdisputeclassaction.com/default.aspx",
+  "details_url": "https://claimfinder.greyridgesignals.ai/s/equifax-inquiry-dispute",
+  "source": "Official settlement site"
  },
  {
   "name": "Navy Federal Unauthorized Personal Loan Settlement",
@@ -448,11 +448,11 @@
   "source": "SettleSignal"
  },
  {
-  "name": "Hyundai and Kia Airbag Control Unit Settlement",
+  "name": "Hyundai and Kia Airbag Control Unit Settlement (ZF-TRW)",
   "deadline": "2027-04-08",
-  "official_url": "https://www.acusettlement.com/hyundaikia/claim",
-  "details_url": "https://claimfinder.greyridgesignals.ai/s/ss-hyundai-and-kia-airbag-control-unit-settlement",
-  "source": "SettleSignal"
+  "official_url": "https://www.acusettlement.com/hyundaikia",
+  "details_url": "https://claimfinder.greyridgesignals.ai/s/hyundai-kia-airbag-ecu",
+  "source": "Official settlement site"
  },
  {
   "name": "Toyota Airbag Control Unit ZF-TRW Settlement",
