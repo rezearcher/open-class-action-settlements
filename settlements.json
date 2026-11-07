@@ -175,11 +175,11 @@
   "source": "SettleSignal"
  },
  {
-  "name": "Raging Waters Processing Fee Settlement",
+  "name": "Raging Waters Ticket Processing Fee Settlement",
   "deadline": "2026-11-24",
-  "official_url": "https://www.ragingwaterssettlement.com/submit-claim",
-  "details_url": "https://claimfinder.greyridgesignals.ai/s/ss-raging-waters-processing-fee-settlement",
-  "source": "SettleSignal"
+  "official_url": "https://www.ragingwaterssettlement.com/",
+  "details_url": "https://claimfinder.greyridgesignals.ai/s/raging-waters-processing-fee",
+  "source": "Official settlement site"
  },
  {
   "name": "Venetian Las Vegas Website Privacy (CIPA) Settlement",
