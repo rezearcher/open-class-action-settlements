@@ -1,6 +1,6 @@
 # Open class action settlements
 
-67 open US class action settlements, soonest claim deadline first. Updated 2026-11-07 by an automated daily job.
+68 open US class action settlements, soonest claim deadline first. Updated 2026-11-07 by an automated daily job.
 
 Browse them at **[ClaimFinder: open settlements by deadline](https://claimfinder.greyridgesignals.ai/settlements)**, or use [`settlements.csv`](settlements.csv) or [`settlements.json`](settlements.json).
 
@@ -41,6 +41,7 @@ Always confirm the deadline and rules on the official settlement site before fil
 | 2026-11-27 | [Dr. Squatch "Natural" Products Settlement](https://claimfinder.greyridgesignals.ai/s/dr-squatch-natural) | [official site](https://www.personalcareproductssettlement.com/) |
 | 2026-11-27 | [Finastra Technology Data Breach Settlement](https://claimfinder.greyridgesignals.ai/s/ss-finastra-technology-data-breach-settlement) | [official site](https://finastradatasettlement.com/form/claim) |
 | 2026-11-29 | [Equifax Inquiry Dispute Class Action Settlement (Hines v. Equifax)](https://claimfinder.greyridgesignals.ai/s/ss-equifax-inquiry-dispute-class-action-settlement-hines-v-equifax) | [official site](https://www.equifaxdisputeclassaction.com/claimform.aspx) |
+| 2026-11-29 | [Navy Federal Unauthorized Personal Loan Settlement](https://claimfinder.greyridgesignals.ai/s/navy-federal-loan) | [official site](https://www.nfculoansettlement.com/) |
 | 2026-11-30 | [Hire Velocity Data Breach Settlement](https://claimfinder.greyridgesignals.ai/s/ss-hire-velocity-data-breach-settlement) | [official site](https://forms.ksacms.com/efiling/fr/eform/roberts_v_hire_claimform/new?form-version=1) |
 | 2026-11-30 | [Jack's Family Restaurants Data Breach Settlement](https://claimfinder.greyridgesignals.ai/s/ss-jacks-family-restaurants-data-breach-settlement) | [official site](https://jacksdatabreachsettlement.com/form/claim/) |
 | 2026-11-30 | [Texas Retina Associates Data Settlement](https://claimfinder.greyridgesignals.ai/s/tx-retina-data) | [official site](https://www.txretinadatasettlement.com/) |
