@@ -1,6 +1,6 @@
 # Open class action settlements
 
-68 open US class action settlements, soonest claim deadline first. Updated 2026-11-08 by an automated daily job.
+63 open US class action settlements, soonest claim deadline first. Updated 2026-11-09 by an automated daily job.
 
 Browse them at **[ClaimFinder: open settlements by deadline](https://claimfinder.greyridgesignals.ai/settlements)**, or use [`settlements.csv`](settlements.csv) or [`settlements.json`](settlements.json).
 
@@ -8,11 +8,6 @@ Always confirm the deadline and rules on the official settlement site before fil
 
 | Deadline | Settlement | Official site |
 |---|---|---|
-| 2026-11-09 | [Doe v. Boone Health Patient Portal Website Tracking Class Action Settlement](https://claimfinder.greyridgesignals.ai/s/ss-doe-v-boone-health-patient-portal-website-tracking-class-act-049c1f) | [official site](https://www.boonehealthsettlement.com/doe-v-boone-claim-form-login/) |
-| 2026-11-09 | [Forbes Media $10M California Website Tracking Settlement](https://claimfinder.greyridgesignals.ai/s/ss-forbes-media-10m-california-website-tracking-settlement) | [official site](https://www.mediasitetrackersettlement.com/other/submitclaim) |
-| 2026-11-09 | [Peco Foods Data Breach Settlement](https://claimfinder.greyridgesignals.ai/s/ss-peco-foods-data-breach-settlement) | [official site](https://pecofoodsdatasettlement.pnclassaction.com/) |
-| 2026-11-09 | [Twin Cities Pain Clinic Data Breach Settlement](https://claimfinder.greyridgesignals.ai/s/ss-twin-cities-pain-clinic-data-breach-settlement) | [official site](https://tcpcdatasettlement.com/form/claim) |
-| 2026-11-09 | [Valley Oaks Health Data Breach Settlement](https://claimfinder.greyridgesignals.ai/s/ss-valley-oaks-health-data-breach-settlement) | [official site](https://valleyoaksdatasettlement.com/) |
 | 2026-11-10 | [Communications Data Group (Pierce) Data Breach Settlement](https://claimfinder.greyridgesignals.ai/s/ss-communications-data-group-pierce-data-breach-settlement) | [official site](https://communicationsdatagroupsettlement.com/form/claim) |
 | 2026-11-10 | [Laguna Honda Hospital Medical Privacy Settlement](https://claimfinder.greyridgesignals.ai/s/ss-laguna-honda-hospital-medical-privacy-settlement) | [official site](https://www.lhhsettlement.com/Login) |
 | 2026-11-10 | [Wellstar Health System Website Pixel Data Privacy Settlement](https://claimfinder.greyridgesignals.ai/s/ss-wellstar-health-system-website-pixel-data-privacy-settlement) | [official site](https://claim.wellstardataprivacysettlement.com/login) |
