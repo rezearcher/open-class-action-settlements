@@ -350,6 +350,13 @@
   "source": "Settlement administrator"
  },
  {
+  "name": "GoodRx Holdings Privacy Settlement",
+  "deadline": "2026-12-29",
+  "official_url": "https://www.goodrxprivacysettlement.com/",
+  "details_url": "https://claimfinder.greyridgesignals.ai/s/goodrx-privacy",
+  "source": "Official settlement site"
+ },
+ {
   "name": "John Deere Repair Services Antitrust Settlement",
   "deadline": "2026-12-31",
   "official_url": "https://www.deererepairsettlement.com/",
@@ -376,6 +383,13 @@
   "official_url": "https://www.cototallossclaim.com/",
   "details_url": "https://claimfinder.greyridgesignals.ai/s/progressive-co-total-loss",
   "source": "Settlement administrator"
+ },
+ {
+  "name": "Non-Bank ATM Surcharge Settlement",
+  "deadline": "2027-02-10",
+  "official_url": "https://www.nonbankatmsurchargesettlement.com/",
+  "details_url": "https://claimfinder.greyridgesignals.ai/s/nonbank-atm-surcharge",
+  "source": "Official settlement site"
  },
  {
   "name": "Vanilla Gift Card Restitution Settlement",

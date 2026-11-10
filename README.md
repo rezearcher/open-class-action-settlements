@@ -1,6 +1,6 @@
 # Open class action settlements
 
-60 open US class action settlements, soonest claim deadline first. Updated 2026-11-10 by an automated daily job.
+62 open US class action settlements, soonest claim deadline first. Updated 2026-11-10 by an automated daily job.
 
 Browse them at **[ClaimFinder: open settlements by deadline](https://claimfinder.greyridgesignals.ai/settlements)**, or use [`settlements.csv`](settlements.csv) or [`settlements.json`](settlements.json).
 
@@ -58,10 +58,12 @@ Always confirm the deadline and rules on the official settlement site before fil
 | 2026-12-28 | [Chimienti & Associates Data Breach Settlement](https://claimfinder.greyridgesignals.ai/s/ss-chimienti-associates-data-breach-settlement) | [official site](https://chimientidatasettlement.com/form/claim) |
 | 2026-12-28 | [Equifax Fair Credit Reporting Act Settlement](https://claimfinder.greyridgesignals.ai/s/equifax-fcra) | [official site](https://equifaxfaircreditreportingsettlement.com/) |
 | 2026-12-28 | [Park Dental Data Security Settlement](https://claimfinder.greyridgesignals.ai/s/park-dental-data) | [official site](https://www.parkdentaldatasecuritysettlement.com/) |
+| 2026-12-29 | [GoodRx Holdings Privacy Settlement](https://claimfinder.greyridgesignals.ai/s/goodrx-privacy) | [official site](https://www.goodrxprivacysettlement.com/) |
 | 2026-12-31 | [John Deere Repair Services Antitrust Settlement](https://claimfinder.greyridgesignals.ai/s/deere-repair-antitrust) | [official site](https://www.deererepairsettlement.com/) |
 | 2027-01-07 | [ARCare Data Settlement](https://claimfinder.greyridgesignals.ai/s/arcare-data) | [official site](https://www.arcaredatasettlement.com/) |
 | 2027-01-19 | [Travis County PIP Settlement (Progressive County Mutual, Texas)](https://claimfinder.greyridgesignals.ai/s/ss-travis-county-pip-settlement-progressive-county-mutual-texas) | [official site](https://veritaconnect.com/traviscountypipsettlement/) |
 | 2027-02-05 | [Progressive Colorado Total Loss Settlement](https://claimfinder.greyridgesignals.ai/s/progressive-co-total-loss) | [official site](https://www.cototallossclaim.com/) |
+| 2027-02-10 | [Non-Bank ATM Surcharge Settlement](https://claimfinder.greyridgesignals.ai/s/nonbank-atm-surcharge) | [official site](https://www.nonbankatmsurchargesettlement.com/) |
 | 2027-02-19 | [Vanilla Gift Card Restitution Settlement](https://claimfinder.greyridgesignals.ai/s/vanilla-gift-card) | [official site](https://cagiftcardsettlement.com/) |
 | 2027-03-31 | [Kia Hyundai settlement offers cash and security upgrades to owners](https://claimfinder.greyridgesignals.ai/s/ss-kia-hyundai-settlement-offers-cash-and-security-upgrades-to-owners) | [official site](https://www.hkmultistateimmobilizersettlement.com/submit-claim) |
 | 2027-04-08 | [Hyundai and Kia Airbag Control Unit Settlement (ZF-TRW)](https://claimfinder.greyridgesignals.ai/s/hyundai-kia-airbag-ecu) | [official site](https://www.acusettlement.com/hyundaikia) |
