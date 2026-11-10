@@ -1,6 +1,6 @@
 # Open class action settlements
 
-63 open US class action settlements, soonest claim deadline first. Updated 2026-11-09 by an automated daily job.
+60 open US class action settlements, soonest claim deadline first. Updated 2026-11-10 by an automated daily job.
 
 Browse them at **[ClaimFinder: open settlements by deadline](https://claimfinder.greyridgesignals.ai/settlements)**, or use [`settlements.csv`](settlements.csv) or [`settlements.json`](settlements.json).
 
@@ -8,9 +8,6 @@ Always confirm the deadline and rules on the official settlement site before fil
 
 | Deadline | Settlement | Official site |
 |---|---|---|
-| 2026-11-10 | [Communications Data Group (Pierce) Data Breach Settlement](https://claimfinder.greyridgesignals.ai/s/ss-communications-data-group-pierce-data-breach-settlement) | [official site](https://communicationsdatagroupsettlement.com/form/claim) |
-| 2026-11-10 | [Laguna Honda Hospital Medical Privacy Settlement](https://claimfinder.greyridgesignals.ai/s/ss-laguna-honda-hospital-medical-privacy-settlement) | [official site](https://www.lhhsettlement.com/Login) |
-| 2026-11-10 | [Wellstar Health System Website Pixel Data Privacy Settlement](https://claimfinder.greyridgesignals.ai/s/ss-wellstar-health-system-website-pixel-data-privacy-settlement) | [official site](https://claim.wellstardataprivacysettlement.com/login) |
 | 2026-11-11 | [International Shoppes Data Breach Settlement](https://claimfinder.greyridgesignals.ai/s/ss-international-shoppes-data-breach-settlement) | [official site](https://www.ishoppesdatasettlement.com/form/claim) |
 | 2026-11-12 | [American Vision Partners Data Breach Settlement](https://claimfinder.greyridgesignals.ai/s/ss-american-vision-partners-data-breach-settlement) | [official site](https://www.americanvisionsettlement.com/) |
 | 2026-11-12 | [Autobell Car Wash Data Breach Settlement (Pauken v. Autobell Car Wash, LLC)](https://claimfinder.greyridgesignals.ai/s/ss-autobell-car-wash-data-breach-settlement-pauken-v-autobell-c-293724) | [official site](https://www.autobelldatasettlement.com/claims_filing.html) |
