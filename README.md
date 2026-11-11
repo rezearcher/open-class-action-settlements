@@ -1,6 +1,6 @@
 # Open class action settlements
 
-62 open US class action settlements, soonest claim deadline first. Updated 2026-11-10 by an automated daily job.
+62 open US class action settlements, soonest claim deadline first. Updated 2026-11-11 by an automated daily job.
 
 Browse them at **[ClaimFinder: open settlements by deadline](https://claimfinder.greyridgesignals.ai/settlements)**, or use [`settlements.csv`](settlements.csv) or [`settlements.json`](settlements.json).
 
