@@ -1,6 +1,6 @@
 # Open class action settlements
 
-58 open US class action settlements, soonest claim deadline first. Updated 2026-11-12 by an automated daily job.
+57 open US class action settlements, soonest claim deadline first. Updated 2026-11-13 by an automated daily job.
 
 Browse them at **[ClaimFinder: open settlements by deadline](https://claimfinder.greyridgesignals.ai/settlements)**, or use [`settlements.csv`](settlements.csv) or [`settlements.json`](settlements.json).
 
@@ -8,7 +8,6 @@ Always confirm the deadline and rules on the official settlement site before fil
 
 | Deadline | Settlement | Official site |
 |---|---|---|
-| 2026-11-13 | [High 5 Games / High 5 Casino Social Casino Settlement (Washington)](https://claimfinder.greyridgesignals.ai/s/ss-high-5-games-high-5-casino-social-casino-settlement-washington) | [official site](https://secure.high5lawsuit.com/) |
 | 2026-11-16 | [Albany College of Pharmacy and Health Sciences (ACPHS) Data Breach Settlement](https://claimfinder.greyridgesignals.ai/s/ss-albany-college-of-pharmacy-and-health-sciences-acphs-data-br-4e8c03) | [official site](https://albanycollegesettlement.com/form/claim) |
 | 2026-11-16 | [Brevard Skin & Cancer Center Data Breach Settlement](https://claimfinder.greyridgesignals.ai/s/ss-brevard-skin-cancer-center-data-breach-settlement) | [official site](https://brevardskindatasettlement.com/form/claim) |
 | 2026-11-16 | [CUSO Financial Services Data Breach Settlement](https://claimfinder.greyridgesignals.ai/s/ss-cuso-financial-services-data-breach-settlement) | [official site](https://sinitsacusofinancial.claims-administrator.com) |
