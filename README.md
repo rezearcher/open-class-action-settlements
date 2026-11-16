@@ -1,6 +1,6 @@
 # Open class action settlements
 
-57 open US class action settlements, soonest claim deadline first. Updated 2026-11-15 by an automated daily job.
+51 open US class action settlements, soonest claim deadline first. Updated 2026-11-16 by an automated daily job.
 
 Browse them at **[ClaimFinder: open settlements by deadline](https://claimfinder.greyridgesignals.ai/settlements)**, or use [`settlements.csv`](settlements.csv) or [`settlements.json`](settlements.json).
 
@@ -8,12 +8,6 @@ Always confirm the deadline and rules on the official settlement site before fil
 
 | Deadline | Settlement | Official site |
 |---|---|---|
-| 2026-11-16 | [Albany College of Pharmacy and Health Sciences (ACPHS) Data Breach Settlement](https://claimfinder.greyridgesignals.ai/s/ss-albany-college-of-pharmacy-and-health-sciences-acphs-data-br-4e8c03) | [official site](https://albanycollegesettlement.com/form/claim) |
-| 2026-11-16 | [Brevard Skin & Cancer Center Data Breach Settlement](https://claimfinder.greyridgesignals.ai/s/ss-brevard-skin-cancer-center-data-breach-settlement) | [official site](https://brevardskindatasettlement.com/form/claim) |
-| 2026-11-16 | [CUSO Financial Services Data Breach Settlement](https://claimfinder.greyridgesignals.ai/s/ss-cuso-financial-services-data-breach-settlement) | [official site](https://sinitsacusofinancial.claims-administrator.com) |
-| 2026-11-16 | [California Casualty Group Data Breach Settlement](https://claimfinder.greyridgesignals.ai/s/ss-california-casualty-group-data-breach-settlement) | [official site](https://cacasualtydatasettlement.com/) |
-| 2026-11-16 | [OneTouchPoint (OTP) Data Incident Settlement](https://claimfinder.greyridgesignals.ai/s/ss-onetouchpoint-otp-data-incident-settlement) | [official site](https://dusterhoftonetouchpoint.claims-administrator.com) |
-| 2026-11-16 | [Regional Urology Data Breach Settlement](https://claimfinder.greyridgesignals.ai/s/ss-regional-urology-data-breach-settlement) | [official site](https://regionalurologydatasettlement.com/form/claim) |
 | 2026-11-17 | [Teleflora Text Message (TCPA) Settlement](https://claimfinder.greyridgesignals.ai/s/teleflora-tcpa) | [official site](https://www.tfsettlement.com/) |
 | 2026-11-19 | [Mental Health Association Data Breach Settlement](https://claimfinder.greyridgesignals.ai/s/ss-mental-health-association-data-breach-settlement) | [official site](https://mhadatasettlement.com/form/claim) |
 | 2026-11-19 | [Mortgage Investors Group Data Breach Settlement](https://claimfinder.greyridgesignals.ai/s/ss-mortgage-investors-group-data-breach-settlement) | [official site](https://migdatasettlement.com/) |
