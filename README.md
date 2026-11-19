@@ -1,6 +1,6 @@
 # Open class action settlements
 
-50 open US class action settlements, soonest claim deadline first. Updated 2026-11-18 by an automated daily job.
+48 open US class action settlements, soonest claim deadline first. Updated 2026-11-19 by an automated daily job.
 
 Browse them at **[ClaimFinder: open settlements by deadline](https://claimfinder.greyridgesignals.ai/settlements)**, or use [`settlements.csv`](settlements.csv) or [`settlements.json`](settlements.json).
 
@@ -8,8 +8,6 @@ Always confirm the deadline and rules on the official settlement site before fil
 
 | Deadline | Settlement | Official site |
 |---|---|---|
-| 2026-11-19 | [Mental Health Association Data Breach Settlement](https://claimfinder.greyridgesignals.ai/s/ss-mental-health-association-data-breach-settlement) | [official site](https://mhadatasettlement.com/form/claim) |
-| 2026-11-19 | [Mortgage Investors Group Data Breach Settlement](https://claimfinder.greyridgesignals.ai/s/ss-mortgage-investors-group-data-breach-settlement) | [official site](https://migdatasettlement.com/) |
 | 2026-11-22 | [The Reserve at LaVista Walk Apartment Fire Class Action Settlement](https://claimfinder.greyridgesignals.ai/s/ss-the-reserve-at-lavista-walk-apartment-fire-class-action-settlement) | [official site](https://lavistafiresettlement.com/form/claim/) |
 | 2026-11-23 | [Kia Optima & Sportage Window Regulator Settlement](https://claimfinder.greyridgesignals.ai/s/ss-kia-optima-sportage-window-regulator-settlement) | [official site](https://kiawindowregulatorsettlement.com/) |
 | 2026-11-24 | [Laboratory Services Cooperative (LSC) Data Breach Settlement](https://claimfinder.greyridgesignals.ai/s/ss-laboratory-services-cooperative-lsc-data-breach-settlement) | [official site](https://www.lscdatasettlement.com/submit-claim) |
