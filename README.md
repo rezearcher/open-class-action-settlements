@@ -1,6 +1,6 @@
 # Open class action settlements
 
-47 open US class action settlements, soonest claim deadline first. Updated 2026-11-22 by an automated daily job.
+46 open US class action settlements, soonest claim deadline first. Updated 2026-11-23 by an automated daily job.
 
 Browse them at **[ClaimFinder: open settlements by deadline](https://claimfinder.greyridgesignals.ai/settlements)**, or use [`settlements.csv`](settlements.csv) or [`settlements.json`](settlements.json).
 
@@ -8,7 +8,6 @@ Always confirm the deadline and rules on the official settlement site before fil
 
 | Deadline | Settlement | Official site |
 |---|---|---|
-| 2026-11-23 | [Kia Optima & Sportage Window Regulator Settlement](https://claimfinder.greyridgesignals.ai/s/ss-kia-optima-sportage-window-regulator-settlement) | [official site](https://kiawindowregulatorsettlement.com/) |
 | 2026-11-24 | [Laboratory Services Cooperative (LSC) Data Breach Settlement](https://claimfinder.greyridgesignals.ai/s/ss-laboratory-services-cooperative-lsc-data-breach-settlement) | [official site](https://www.lscdatasettlement.com/submit-claim) |
 | 2026-11-24 | [Raging Waters Ticket Processing Fee Settlement](https://claimfinder.greyridgesignals.ai/s/raging-waters-processing-fee) | [official site](https://www.ragingwaterssettlement.com/) |
 | 2026-11-24 | [Venetian Las Vegas Website Privacy (CIPA) Settlement](https://claimfinder.greyridgesignals.ai/s/ss-venetian-las-vegas-website-privacy-cipa-settlement) | [official site](https://claim.venetianlasvegassettlement.com/Login) |
