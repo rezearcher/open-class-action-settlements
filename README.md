@@ -1,6 +1,6 @@
 # Open class action settlements
 
-46 open US class action settlements, soonest claim deadline first. Updated 2026-11-23 by an automated daily job.
+44 open US class action settlements, soonest claim deadline first. Updated 2026-11-24 by an automated daily job.
 
 Browse them at **[ClaimFinder: open settlements by deadline](https://claimfinder.greyridgesignals.ai/settlements)**, or use [`settlements.csv`](settlements.csv) or [`settlements.json`](settlements.json).
 
@@ -8,9 +8,7 @@ Always confirm the deadline and rules on the official settlement site before fil
 
 | Deadline | Settlement | Official site |
 |---|---|---|
-| 2026-11-24 | [Laboratory Services Cooperative (LSC) Data Breach Settlement](https://claimfinder.greyridgesignals.ai/s/ss-laboratory-services-cooperative-lsc-data-breach-settlement) | [official site](https://www.lscdatasettlement.com/submit-claim) |
 | 2026-11-24 | [Raging Waters Ticket Processing Fee Settlement](https://claimfinder.greyridgesignals.ai/s/raging-waters-processing-fee) | [official site](https://www.ragingwaterssettlement.com/) |
-| 2026-11-24 | [Venetian Las Vegas Website Privacy (CIPA) Settlement](https://claimfinder.greyridgesignals.ai/s/ss-venetian-las-vegas-website-privacy-cipa-settlement) | [official site](https://claim.venetianlasvegassettlement.com/Login) |
 | 2026-11-25 | [Fujifilm Diosynth Biotechnologies Data Incident Settlement (Johnson v. Fujifilm)](https://claimfinder.greyridgesignals.ai/s/ss-fujifilm-diosynth-biotechnologies-data-incident-settlement-j-259ade) | [official site](https://flbdatasettlement.com/form/claim) |
 | 2026-11-25 | [Neutrogena Skin360 Illinois Biometric Privacy Settlement](https://claimfinder.greyridgesignals.ai/s/neutrogena-skin360-bipa) | [official site](https://www.skin360bipasettlement.com/) |
 | 2026-11-26 | [Brett Conner v. CPAP Medical Supplies and Services, Inc. Data Incident Class Action Settlement](https://claimfinder.greyridgesignals.ai/s/ss-brett-conner-v-cpap-medical-supplies-and-services-inc-data-i-4b45be) | [official site](https://cpapdataincidentsettlement.com/form/claim) |
