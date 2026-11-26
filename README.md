@@ -1,6 +1,6 @@
 # Open class action settlements
 
-42 open US class action settlements, soonest claim deadline first. Updated 2026-11-25 by an automated daily job.
+40 open US class action settlements, soonest claim deadline first. Updated 2026-11-26 by an automated daily job.
 
 Browse them at **[ClaimFinder: open settlements by deadline](https://claimfinder.greyridgesignals.ai/settlements)**, or use [`settlements.csv`](settlements.csv) or [`settlements.json`](settlements.json).
 
@@ -8,8 +8,6 @@ Always confirm the deadline and rules on the official settlement site before fil
 
 | Deadline | Settlement | Official site |
 |---|---|---|
-| 2026-11-25 | [Neutrogena Skin360 Illinois Biometric Privacy Settlement](https://claimfinder.greyridgesignals.ai/s/neutrogena-skin360-bipa) | [official site](https://www.skin360bipasettlement.com/) |
-| 2026-11-26 | [Brett Conner v. CPAP Medical Supplies and Services, Inc. Data Incident Class Action Settlement](https://claimfinder.greyridgesignals.ai/s/ss-brett-conner-v-cpap-medical-supplies-and-services-inc-data-i-4b45be) | [official site](https://cpapdataincidentsettlement.com/form/claim) |
 | 2026-11-27 | [Dr. Squatch "Natural" Products Settlement](https://claimfinder.greyridgesignals.ai/s/dr-squatch-natural) | [official site](https://www.personalcareproductssettlement.com/) |
 | 2026-11-27 | [Finastra Technology Data Breach Settlement](https://claimfinder.greyridgesignals.ai/s/ss-finastra-technology-data-breach-settlement) | [official site](https://finastradatasettlement.com/form/claim) |
 | 2026-11-29 | [Equifax Inquiry Dispute Class Action Settlement (Hines v. Equifax)](https://claimfinder.greyridgesignals.ai/s/equifax-inquiry-dispute) | [official site](https://www.equifaxdisputeclassaction.com/default.aspx) |
